@@ -1,7 +1,6 @@
 package fufiadero.dev.Model;
 
 
-
 public class Person {
     private long Id;
     private String name;
